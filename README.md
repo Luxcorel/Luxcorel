@@ -8,11 +8,11 @@ I'm currently pursuing a **B.Sc. in Computer Science** at **Malmö University**.
 
 | **Category**         | **Technologies**                                                               |
 |----------------------|--------------------------------------------------------------------------------|
-| **Languages**        | JavaScript/TypeScript, Java, SQL, Go, (AVR 2560 Assembly)                      |
+| **Languages**        | JavaScript/TypeScript, Java, SQL, Go                                           |
 | **Frameworks**       | Spring Boot, Next.js, Deno fresh                                               |
 | **Developer Tools**  | Git, GitHub Actions, Docker, Neovim                                            |
 | **Databases**        | PostgreSQL                                                                     |
-| **Libraries**        | React, Tailwind CSS, Zod, Shadcn UI                                            |
+| **Libraries**        | React, Tailwind CSS, Zod                                                       |
 
 ---
 
