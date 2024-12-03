@@ -1,6 +1,6 @@
 # Hello, I'm Johannes Rosengren 👋
 
-I'm currently pursuing a **B.Sc. in Computer Science** at **Malmö University**. When I'm not coding, you’ll find me behind the lens experimenting with **photography** or perfecting my **coffee** brewing skills.
+I'm a software developer student with a passion for web development. My primary programming languages are TypeScript/JavaScript, Java, and Go. I'm currently pursuing a B.Sc. in Computer Science at Malmö University. Beyond coding, I enjoy photography and indulging in my love for specialty coffee.
 
 ---
 
