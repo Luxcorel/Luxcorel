@@ -4,7 +4,7 @@ I'm currently pursuing a **B.Sc. in Computer Science** at **Malmö University**.
 
 ---
 
-## 🔧 Technical Skills
+## Technical Skills
 
 | **Category**         | **Technologies**                                                               |
 |----------------------|--------------------------------------------------------------------------------|
@@ -31,7 +31,7 @@ I'm currently pursuing a **B.Sc. in Computer Science** at **Malmö University**.
 Responsive marketplace web app. Backend REST API built with Spring boot and responsive frontend built with Next.js.
 
 ### [Weatherwear](https://github.com/Luxcorel/weatherwear)
-Fullstack Next.js web app for picking clothes based on current weather.
+Fullstack Next.js web app which suggests outfits and music based on current weather.
 
 ---
 
