@@ -40,5 +40,5 @@ Fullstack Next.js web app which suggests outfits and music based on current weat
 
 ---
 
-## Let's Connect
+## Contact
 **[LinkedIn](https://www.linkedin.com/in/johannes-rosengren)**
