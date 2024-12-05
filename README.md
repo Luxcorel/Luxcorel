@@ -1,6 +1,6 @@
 # Hello, I'm Johannes Rosengren 👋
 
-I'm a software developer student with a passion for web development. My primary programming languages are TypeScript/JavaScript, Java, and Go. I'm currently pursuing a B.Sc. in Computer Science at Malmö University. Beyond coding, I enjoy photography and spending all my money on specialty coffee.
+I'm a software developer student with a passion for web development. My primary programming languages are TypeScript/JavaScript, Java, and Go. I'm currently pursuing a B.Sc. in Computer Science at Malmö University. Beyond coding, I enjoy photography and drinking delicous coffee.
 
 ---
 
