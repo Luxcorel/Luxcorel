@@ -1,15 +1,11 @@
 ## About me
 I’m a software development student passionate about web development and always excited to learn and explore new technologies. My primary programming languages so far are TypeScript/JavaScript, Java, and Go. I'm currently pursuing a B.Sc. in Computer Science at Malmö University.
 
-## Technical Skills
+### Currently working on
 
-| **Category**         | **Technologies**                                                               |
-|----------------------|--------------------------------------------------------------------------------|
-| **Languages**        | JavaScript/TypeScript, Java, SQL, Go                                           |
-| **Frameworks**       | Spring Boot, Next.js, Deno fresh                                               |
-| **Developer Tools**  | Git, GitHub Actions, Docker, Neovim                                            |
-| **Databases**        | PostgreSQL                                                                     |
-| **Libraries**        | React, Tailwind CSS, Zod                                                       |
+- Internship at Voyado
+- Learning AVR assembly (embedded systems course)
+- Advent of code 2024 (Go)
 
 ---
 
@@ -24,6 +20,8 @@ I’m a software development student passionate about web development and always
 ---
 
 ## Projects
+Here are some of my favorite projects at the moment:
+
 ### [Marketplace](https://github.com/luxcorel/marketplace)
 Responsive marketplace web app. Backend REST API built with Spring boot and responsive frontend built with Next.js.
 
@@ -34,6 +32,19 @@ Fullstack Next.js web app which suggests outfits and music based on current weat
 
 ## Education
 - **B.Sc. in Computer Science**, Malmö University (2022 - 2025)
+
+---
+
+## Technical Skills
+Here are some of the technologies I've worked with thus far:
+
+| **Category**         | **Technologies**                                                               |
+|----------------------|--------------------------------------------------------------------------------|
+| **Languages**        | JavaScript/TypeScript, Java, SQL, Go                                           |
+| **Frameworks**       | Spring Boot, Next.js, Deno fresh                                               |
+| **Developer Tools**  | Git, GitHub Actions, Docker, Neovim                                            |
+| **Databases**        | PostgreSQL                                                                     |
+| **Libraries**        | React, Tailwind CSS, Zod                                                       |
 
 ---
 
