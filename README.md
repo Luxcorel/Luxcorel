@@ -1,5 +1,5 @@
 ## About me
-I'm a software developer student with a passion for web development and constantly learning. My most used programming languages are TypeScript/JavaScript, Java, and Go. I'm currently pursuing a B.Sc. in Computer Science at Malmö University. 
+I’m a software development student passionate about web development and always excited to learn and explore new technologies. My primary programming languages so far are TypeScript/JavaScript, Java, and Go. I'm currently pursuing a B.Sc. in Computer Science at Malmö University.
 
 ## Technical Skills
 
