@@ -22,7 +22,7 @@ I’m a software development student passionate about web development and always
 ## Projects
 Here are some of my favorite projects at the moment:
 
-### [Marketplace](https://github.com/luxcorel/marketplace)
+### [Marketplace](https://github.com/luxcorel/marketplace) [demo site](https://marketplace.johros.dev)
 Responsive marketplace web app. Backend REST API built with Spring boot and responsive frontend built with Next.js.
 
 ### [Weatherwear](https://github.com/Luxcorel/weatherwear)
