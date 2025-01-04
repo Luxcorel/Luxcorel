@@ -4,8 +4,7 @@ I’m a software development student passionate about web development and always
 ### Currently working on
 
 - Internship at Voyado
-- Learning AVR assembly (embedded systems course)
-- Advent of code 2024 (Go)
+- Performance-aware programming course
 
 ---
 
