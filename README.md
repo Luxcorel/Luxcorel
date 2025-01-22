@@ -3,15 +3,17 @@
 **Voyado** | Lund  
 **Sep. 2024 – Jan. 2025**  
 - Developing an in-house product feed transformation tool for Voyado  
-- Full stack web-application using the **Deno Javascript runtime** and the **Fresh 2.0 framework**  
+- Full stack web-application using the Deno runtime and the Fresh framework
 - Skills developed: Typescript, API Design, AWS, Conventional commits, Semantic versioning, Linear commits
 
 ---
 
 ## Featured Project
 
-### [Marketplace](https://github.com/luxcorel/marketplace) ([Hosted demo](https://marketplace.johros.dev))
-Responsive marketplace web app built with Spring boot and Next.js.
+### Marketplace web app ([Github Repo](https://github.com/luxcorel/marketplace) | [Hosted demo site](https://marketplace.johros.dev/))
+- Responsive marketplace web app built with Spring Boot and Next.js
+- Responsive UI, product listings with text and images, and search feature with several filters
+- Skills developed: Java, TypeScript, API Design, CI/CD, Responsive Design, Integration Testing
 
 ---
 
