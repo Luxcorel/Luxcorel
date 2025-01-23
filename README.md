@@ -6,21 +6,19 @@
 - Full stack web-application using the Deno runtime and the Fresh framework
 - Skills developed: Typescript, API Design, AWS, Conventional commits, Semantic versioning, Linear commits
 
----
-
-## Featured Project
+## Featured Projects
 
 ### Marketplace web app ([Github Repo](https://github.com/luxcorel/marketplace) | [Hosted demo site](https://marketplace.johros.dev/))
-- Responsive marketplace web app built with Spring Boot and Next.js
-- Responsive UI, product listings with text and images, and search feature with several filters
-- Skills developed: Java, TypeScript, API Design, CI/CD, Responsive Design, Integration Testing
+- Marketplace web app built with Spring Boot and Next.js
+- Responsive UI, product listings with text & images, and search with several filters
+- Skills developed: Java, TypeScript, API Design, CI/CD, Unit Testing, DB Design
 
----
+### WeatherWear ([Github Repo](https://github.com/luxcorel/weatherwear)
+- Web app that suggests clothes based on current weather, built with Next.js
+- Skills developed: Typescript, API Design, Responsive Design
 
 ## Education
 - **B.Sc. in Computer Science**, Malmö University (2022 - 2025)
-
----
 
 ## Technical Skills
 Here are some of the technologies I've worked with thus far:
@@ -32,8 +30,6 @@ Here are some of the technologies I've worked with thus far:
 | **Devops**                     | Git, Docker, CI/CD                                                   |
 | **Cloud**                      | Cloudflare, Railway, AWS                                             |
 | **Developer Tools**            | IntelliJ, Neovim btw                                                 |
-
----
 
 ## Contact
 **[LinkedIn](https://www.linkedin.com/in/johannes-rosengren)**
