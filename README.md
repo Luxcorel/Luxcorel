@@ -13,7 +13,7 @@
 - Responsive UI, product listings with text & images, and search with several filters
 - Skills developed: Java, TypeScript, API Design, CI/CD, Unit Testing, DB Design
 
-### WeatherWear ([Github Repo](https://github.com/luxcorel/weatherwear)
+### WeatherWear ([Github Repo](https://github.com/luxcorel/weatherwear))
 - Web app that suggests clothes based on current weather, built with Next.js
 - Skills developed: Typescript, API Design, Responsive Design
 
