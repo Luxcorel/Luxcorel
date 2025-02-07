@@ -14,7 +14,7 @@
 
 ## Featured Projects
 
-### Marketplace ([Github Repo](https://github.com/luxcorel/marketplace) | [Hosted demo site](https://marketplace.johros.dev/))
+### Marketplace ([Github Repo](https://github.com/luxcorel/marketplace) | [Hosted Demo Site](https://marketplace.johros.dev/))
 - Marketplace web app built with Spring Boot and Next.js
 - Responsive UI, product listings with text & images, and search with several filters
 - Skills developed: Java, TypeScript, API Design, CI/CD, Unit Testing, DB Design
