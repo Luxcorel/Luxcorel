@@ -1,4 +1,10 @@
 ## Work Experience
+
+### Bachelor Thesis Student
+**Voyado** | Lund  
+**Jan. 2025 – now**  
+- Currently working on my Bachelor Thesis at Voyado
+
 ### Software Developer Intern
 **Voyado** | Lund  
 **Sep. 2024 – Jan. 2025**  
