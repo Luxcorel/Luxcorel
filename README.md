@@ -2,7 +2,7 @@
 
 ### Bachelor Thesis Student
 **Voyado** | Lund  
-**Jan. 2025 – now**  
+**Jan. 2025 – present**  
 - Currently working on my Bachelor Thesis at Voyado
 
 ### Software Developer Intern
