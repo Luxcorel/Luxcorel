@@ -33,9 +33,9 @@ Here are some of the technologies I've worked with thus far:
 | **Category**                   | **Technologies**                                                                            |
 |--------------------------------|---------------------------------------------------------------------------------------------|
 | **Languages**                  | JavaScript/TypeScript (Node.js, Deno), Java (Gradle, Maven), Go, SQL (Primarily PostgreSQL) |
-| **Web technologies**           | Spring Boot, Next.js, React, RESTful APIs, Deno Fresh                                       |
-| **Devops & Cloud**             | Docker, Git, CI/CD, Cloudflare, Railway, AWS                                                |
-| **Development Tools**          | IntelliJ, Neovim, Postman, Linux                                                            |
+| **Web technologies**           | Spring Boot, Next.js, React, RESTful APIs, Deno Fresh, Tailwind CSS                         |
+| **Devops & Cloud**             | Docker, Git, CI/CD (Github Actions), Cloudflare, Railway, AWS                               |
+| **Development Tools**          | IntelliJ, Neovim, Postman, Linux, /dev/tty                                                  |
 
 ## Contact
 **[LinkedIn](https://www.linkedin.com/in/johannes-rosengren)**
